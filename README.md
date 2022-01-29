@@ -2,13 +2,13 @@
 
 Created two components (two dll files) and used them in the Bookshop project and Departmental Store project.
 
-Component 1: ClassLibraryInventory.dll checks if an ordered book is available in inventory.
+Component 1: ClassLibraryInventory.dll checks if an ordered product is available in inventory.
 
 Component 2: ClassLibraryShopManager.dll manages the orders via 3 operations: confirm order, update cart and send order.
 
 # Requires Interface
 
-The check_inventory() method from the ClassLibraryInventory component, acts as a Requires interface for the ClassLibraryShopManager component. Whenever a order needs to be confirmed, this method is required and invoked to check if the ordered item exists in the inventory.
+The check_inventory() method from the ClassLibraryInventory component, acts as a Requires interface for the ClassLibraryShopManager component. Whenever an order needs to be confirmed, this method is required and invoked to check if the ordered item exists in the inventory.
 
 This is how the solution explorer for the ClassLibraryShopManager component looks like after adding the ClassLibraryInventory.dll files in it.
 
