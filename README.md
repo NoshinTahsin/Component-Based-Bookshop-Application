@@ -10,7 +10,7 @@ Component 2: ClassLibraryShopManager.dll manages the orders via 3 operations: co
 
 The check_inventory() method from the ClassLibraryInventory component, acts as a Requires interface for the ClassLibraryShopManager component. Whenever an order needs to be confirmed, this method is required and invoked to check if the ordered item exists in the inventory.
 
-This is how the solution explorer for the ClassLibraryShopManager component looks like after adding the ClassLibraryInventory.dll files in it.
+This is how the solution explorer for the ClassLibraryShopManager component looks like after adding the ClassLibraryInventory.dll file in it.
 
 ![image](https://user-images.githubusercontent.com/35559870/151668944-02dbe4b1-5b08-4bcd-bd83-75af9e4fbcb0.png)
 
@@ -18,11 +18,11 @@ This is how the solution explorer for the ClassLibraryShopManager component look
 
 The ClassLibraryShopManager component provides interface for the Bookshop project and the Departmental Store project, to perform confirm_order(), update_cart() and send_order().
 
-This is how the solution explorer for the Bookshop project looks like after adding the ClassLibraryShopManager.dll files in it.
+This is how the solution explorer for the Bookshop project looks like after adding the ClassLibraryShopManager.dll file in it.
 
 ![image](https://user-images.githubusercontent.com/35559870/151668998-c6c31bd7-597b-440d-9637-a2671023df04.png)
 
-This is how the solution explorer for the Bookshop project looks like after adding the ClassLibraryShopManager.dll files in it.
+This is how the solution explorer for the Bookshop project looks like after adding the ClassLibraryShopManager.dll file in it.
 
 ![image](https://user-images.githubusercontent.com/35559870/151670538-9338c102-accf-4a09-b195-a3ed6fe115a1.png)
 
