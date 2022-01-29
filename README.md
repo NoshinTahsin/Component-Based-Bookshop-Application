@@ -34,6 +34,8 @@ This is how the solution explorer for the DepartmentalStore project looks like a
 
 Requires Interface: The “requires” interface specifies the services that other components in the system must provide if a component is to operate correctly. If these services are not available, then the component will not work. The check_inventory() method from the ClassLibraryInventory component, acts as a Required interface for the ClassLibraryShopManager component. Whenever an order needs to be confirmed, the method check_inventory() is required and invoked to check if the ordered item exists in the inventory.
 
+This is how the solution explorer for the ClassLibraryShopManager component looks like after adding the ClassLibraryInventory.dll file in it.
+
 ![image](https://user-images.githubusercontent.com/35559870/151668944-02dbe4b1-5b08-4bcd-bd83-75af9e4fbcb0.png)
 
 # Demonstration of Reusability
