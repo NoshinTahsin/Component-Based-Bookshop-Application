@@ -1,0 +1,52 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "DepartmentalStore/1.0.0": {
+        "dependencies": {
+          "ClassLibraryShopManager": "1.0.0.0"
+        },
+        "runtime": {
+          "DepartmentalStore.dll": {}
+        }
+      },
+      "ClassLibraryShopManager/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryShopManager.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      },
+      "ClassLibraryInventory/1.0.0.0": {
+        "runtime": {
+          "ClassLibraryInventory.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DepartmentalStore/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryShopManager/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "ClassLibraryInventory/1.0.0.0": {
+      "type": "reference",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
