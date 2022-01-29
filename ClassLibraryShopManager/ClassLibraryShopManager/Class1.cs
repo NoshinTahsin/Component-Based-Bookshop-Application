@@ -24,7 +24,7 @@ namespace ClassLibraryShopManager
         }
         public void send_order()
         {
-            Console.WriteLine("We have sent your parcel to the courier service. You'll receive it within 5-7 days. Thank you.");
+            Console.WriteLine("We have sent your order. You will receive it in 20-30 minutes. Thank you!");
         }
     }
 }

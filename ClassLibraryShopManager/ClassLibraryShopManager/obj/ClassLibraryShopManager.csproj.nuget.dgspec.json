@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj",
         "projectName": "ClassLibraryShopManager",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\ClassLibraryShopManager\\ClassLibraryShopManager\\ClassLibraryShopManager.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\ClassLibraryShopManager\\ClassLibraryShopManager\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\ClassLibraryShopManager\\ClassLibraryShopManager\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
