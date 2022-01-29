@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ASUS\\source\\repos\\Bookshop\\Bookshop\\Bookshop.csproj": {}
+    "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\Bookshop\\Bookshop\\Bookshop.csproj": {}
   },
   "projects": {
-    "C:\\Users\\ASUS\\source\\repos\\Bookshop\\Bookshop\\Bookshop.csproj": {
+    "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\Bookshop\\Bookshop\\Bookshop.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\Bookshop\\Bookshop\\Bookshop.csproj",
+        "projectUniqueName": "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\Bookshop\\Bookshop\\Bookshop.csproj",
         "projectName": "Bookshop",
-        "projectPath": "C:\\Users\\ASUS\\source\\repos\\Bookshop\\Bookshop\\Bookshop.csproj",
+        "projectPath": "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\Bookshop\\Bookshop\\Bookshop.csproj",
         "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ASUS\\source\\repos\\Bookshop\\Bookshop\\obj\\",
+        "outputPath": "C:\\Users\\ASUS\\source\\repos\\cbse task 1\\NoshinCBSE\\Bookshop\\Bookshop\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
