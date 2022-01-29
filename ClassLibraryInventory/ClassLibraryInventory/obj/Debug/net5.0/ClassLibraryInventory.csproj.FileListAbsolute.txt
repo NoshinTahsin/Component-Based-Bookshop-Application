@@ -1,0 +1,11 @@
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\bin\Debug\net5.0\ClassLibraryInventory.deps.json
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\bin\Debug\net5.0\ClassLibraryInventory.dll
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\bin\Debug\net5.0\ref\ClassLibraryInventory.dll
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\bin\Debug\net5.0\ClassLibraryInventory.pdb
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ClassLibraryInventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ClassLibraryInventory.AssemblyInfoInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ClassLibraryInventory.AssemblyInfo.cs
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ClassLibraryInventory.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ClassLibraryInventory.dll
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ref\ClassLibraryInventory.dll
+C:\Users\ASUS\source\repos\ClassLibraryInventory\ClassLibraryInventory\obj\Debug\net5.0\ClassLibraryInventory.pdb
