@@ -22,7 +22,7 @@ This is how the solution explorer for the Bookshop project looks like after addi
 
 ![image](https://user-images.githubusercontent.com/35559870/151668998-c6c31bd7-597b-440d-9637-a2671023df04.png)
 
-This is how the solution explorer for the Bookshop project looks like after adding the ClassLibraryShopManager.dll file in it.
+This is how the solution explorer for the DepartmentalStore project looks like after adding the ClassLibraryShopManager.dll file in it.
 
 ![image](https://user-images.githubusercontent.com/35559870/151670538-9338c102-accf-4a09-b195-a3ed6fe115a1.png)
 
